@@ -1,5 +1,5 @@
 # demo-doctrine-migration
-A simple demo of the Doctrine Migration
+A simple demo of the [Doctrine Migration](https://github.com/doctrine/migrations).
 
 ## Installation
 
