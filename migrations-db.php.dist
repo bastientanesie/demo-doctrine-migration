@@ -1,0 +1,8 @@
+<?php return [
+    'driver' => 'pdo_mysql',
+    'dbname' => 'my_database',
+    'user' => 'my_user',
+    'password' => 'my_password',
+    'host' => '127.0.0.1',
+    'charset' => 'utf8',
+];

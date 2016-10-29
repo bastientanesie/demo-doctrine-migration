@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "doctrine/migrations": "^1.4"
+    }
+}
